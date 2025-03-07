@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="/assets/images/pattern-character-count.svg"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Character Counter</title>
+    <link rel="stylesheet" href="Styles/style.css" />
+    <script src="Scripts/app.js" defer></script>
+  </head>
+  <body class="">
+    <div class="container">
+      <nav class="top-page">
+        <div class="logo">
+          <img src="/assets/images/logo-dark-theme.svg" alt="logo" />
+        </div>
+        <div class="btn">
+          <img class="button" src="/assets/images/icon-sun.svg" alt="" />
+        </div>
+      </nav>
+      <main class="content">
+        <div class="main-top">
+          <h1 class="text">
+            <span>Analyze your text</span> <span>in real-time</span>
+          </h1>
+        </div>
+        <div class="main-mid">
+          <div class="capital-sin">
+            <div class="text-area">
+              <textarea
+                maxlength=""
+                name="analyze-text"
+                id="text-entry"
+                placeholder="Start typing here...(or paste your text)"
+              ></textarea>
+            </div>
+            <div class="input-area">
+              <div class="inputs">
+                <div class="water-mages inp">
+                  <input type="checkbox" name="exc" id="exclude" />
+                  <label class="text" for="exclude">Exclude Spaces</label>
+                </div>
+                <div class="mercenaries inp">
+                  <input type="checkbox" name="lmt" id="limit" />
+                  <label class="text" for="limit">Set Character Limit</label>
+                </div>
+              </div>
+              <div class="read-time">
+                <p class="text">Approx. reading time: 0 minutes</p>
+              </div>
+            </div>
+          </div>
+          <div class="seven-deadly-sins">
+            <div class="total-count count">
+              <h2 class="numbers">00</h2>
+              <p class="text">Total Characters</p>
+            </div>
+            <div class="word-count count">
+              <h2 class="numbers">00</h2>
+              <p class="text">Word Count</p>
+            </div>
+            <div class="sentence-count count">
+              <h2 class="numbers">00</h2>
+              <p class="text">Sentence Count</p>
+            </div>
+          </div>
+        </div>
+        <div class="main-bottom">
+          <h2 class="text">Letter Density</h2>
+          <p class="text">
+            No characters found. Start typing to see letter density.
+          </p>
+        </div>
+      </main>
+    </div>
+  </body>
+</html>
