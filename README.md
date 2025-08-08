@@ -32,3 +32,8 @@ If the hosted version is online, you can access the app here:
 [https://character-counter-lv.netlify.app/](https://character-counter-lv.netlify.app/)
 
 > ⚠️ **Note:** The live version may not always reflect the most recent updates available on GitHub.
+
+## Screenshot
+
+<img width="1313" height="895" alt="image" src="https://github.com/user-attachments/assets/18858968-ed24-4e63-b072-4cdb3625c1ab" />
+
