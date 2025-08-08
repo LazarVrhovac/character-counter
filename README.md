@@ -13,6 +13,7 @@ This is my first small project completed independently from Frontend Mentor. It 
   - Letter Density
 - Ability to set a character limit
 - Ability to include or exclude spaces from Total Characters
+> ⚠️ **Note:** This project was primarily focused on implementing and optimizing JavaScript functionality (character counting logic, theme switching, etc.). Responsive design was not implemented in this version, as the main goal was to demonstrate JavaScript skills. A responsive version may be added in future updates.
 
 ## Technologies Used
 
