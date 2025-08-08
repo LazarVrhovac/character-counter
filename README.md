@@ -29,7 +29,8 @@ This is my first small project completed independently from Frontend Mentor. It 
 
 ## 🌐 Live Version
 If the hosted version is online, you can access the app here:
-[https://character-counter-lv.netlify.app/](https://character-counter-lv.netlify.app/)
+
+🔗[https://character-counter-lv.netlify.app/](https://character-counter-lv.netlify.app/)
 
 > ⚠️ **Note:** The live version may not always reflect the most recent updates available on GitHub.
 
