@@ -1,2 +1,34 @@
-Text(character) count web app. The user is expected to write or paste text into the text box, the result is expected in real time.
-This is my first project that contains HTML+CSS(SCSS) and JS at once, after more than 2 months of extensive front-end bootcamp at CODE by Comtrade.
+# Character Counter
+
+This is my first small project completed independently from Frontend Mentor. It is built using vanilla **HTML**, **SCSS**, and **JavaScript**.
+
+## Features
+
+- Toggle between **Light** and **Dark** themes
+- Real-time text input handling
+- Displays live statistics including:
+  - Total Characters (excluding spaces)
+  - Word Count
+  - Sentence Count
+  - Letter Density
+- Ability to set a character limit
+- Ability to include or exclude spaces from Total Characters
+
+## Technologies Used
+
+- HTML
+- SCSS
+- Vanilla JavaScript
+
+## How to Use
+
+1. Type or paste your text into the input area.
+2. Watch the statistics update instantly as you type.
+3. Switch between light and dark mode using the theme toggle.
+4. Set a character limit to restrict input length.
+
+## 🌐 Live Version
+If the hosted version is online, you can access the app here:
+[https://character-counter-lv.netlify.app/](https://character-counter-lv.netlify.app/)
+
+> ⚠️ **Note:** The live version may not always reflect the most recent updates available on GitHub.
